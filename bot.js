@@ -12,7 +12,7 @@ const config = require('./config');
 const {WAConnection, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
 const {Message, StringSession, Image, Video} = require('./safuzz/');
 const { DataTypes } = require('sequelize');
-const { GreetingsDB, getMessage } = require("./plugins/sql/greetings");
+const { GreetingsDB, getMessage } = require("./plugins/sal/greetings");
 const got = require('got');
 const axios = require('axios');
 
