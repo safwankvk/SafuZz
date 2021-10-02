@@ -9,13 +9,13 @@ life is a journey## Thanks for Everything
 
   <p align="center">
 
-<a href="#"><img title="safuzzMwol" src="https://img.shields.io/badge/safwankvk-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="safuzz" src="https://https://i.imgur.com/IDdnF8R.jpeg?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
   <p align="center">
 
-<a href="https://chat.whatsapp.com/Eq2IZ59kFaBEp8M8Y3Nrqd"><img title="join support" src="https://img.shields.io/badge/join_support-safwankvk/safuzzmwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/Eq2IZ59kFaBEp8M8Y3Nrqd"><img title="join support" src="https://img.shields.io/badge/join_support-safwankvk/safuzz?color=black&style=for-the-badge&logo=whatsapp"></a>
 
 </p>
 
