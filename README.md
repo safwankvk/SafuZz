@@ -1,38 +1,21 @@
-# safwankvk
-life is a journey## Thanks for Everything 
-
+## Thanks for Everything 
 ### We will always remember you..
 
 <div align="center">
-
   <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83832372?v=4" width="200" height="200"/>
-z
   <p align="center">
-
-<a href="#"><img title="safuzz" src="https://https://i.imgur.com/IDdnF8R.jpeg?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-
+<a href="#"><img title="PinkyMwol" src="https://img.shields.io/badge/afnanplk-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
-
   <p align="center">
-
-<a href="https://chat.whatsapp.com/Eq2IZ59kFaBEp8M8Y3Nrqd"><img title="join support" src="https://img.shields.io/badge/join_support-safwankvk/safuzz?color=black&style=for-the-badge&logo=whatsapp"></a>
-
+<a href="https://chat.whatsapp.com/Eq2IZ59kFaBEp8M8Y3Nrqd"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
-
 </div>
-
 <p align="center">
-
-Project created by <a href="https://github.com/safwankvk">safwankvk</a> to make it public
-
+Project created by <a href="https://github.com/afnanplk">afnanplk</a> to make it public
     <br>
-
        | © |
-
         Reserved |
-
     <br> 
-
 </p>
 
 ----
