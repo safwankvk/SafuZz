@@ -6,7 +6,7 @@ life is a journey## Thanks for Everything
 <div align="center">
 
   <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83832372?v=4" width="200" height="200"/>
-
+z
   <p align="center">
 
 <a href="#"><img title="safuzz" src="https://https://i.imgur.com/IDdnF8R.jpeg?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
