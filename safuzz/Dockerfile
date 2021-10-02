@@ -4,6 +4,8 @@ RUN git clone https://github.com/safwankvk/SafuZz /root/WhatsAsenaDuplicated
 
 WORKDIR /root/WhatsAsenaDuplicated/
 
+RUN git clone https://github.com/afnanplk/uploads
+
 ENV TZ=Europe/Istanbul
 
 RUN npm install supervisor -g
