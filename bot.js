@@ -16,7 +16,7 @@ const { GreetingsDB, getMessage } = require("./plugins/sal/greetings");
 const got = require('got');
 const axios = require('axios');
 
-// Sql
+// Sal
 const WhatsAsenaDB = config.DATABASE.define('WhatsAsena', {
     info: {
       type: DataTypes.STRING,
