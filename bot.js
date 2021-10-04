@@ -12,11 +12,11 @@ const config = require('./config');
 const {WAConnection, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
 const {Message, StringSession, Image, Video} = require('./safuzz/');
 const { DataTypes } = require('sequelize');
-const { GreetingsDB, getMessage } = require("./plugins/sal/greetings");
+const { GreetingsDB, getMessage } = require("./plugins/sql/greetings");
 const got = require('got');
 const axios = require('axios');
 
-// Sal
+// Sql
 const WhatsAsenaDB = config.DATABASE.define('WhatsAsena', {
     info: {
       type: DataTypes.STRING,
