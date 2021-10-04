@@ -1,29 +1,29 @@
 {
-  "name": "safuzz",
+  "name": "Pinky",
   "version": "7.3.6",
-  "description": "safuzz is the Modified Version of WhatsAsena.",
-  "main": "./safuzz/bot.js",
+  "description": "Pinky is the Modified Version of WhatsAsena.",
+  "main": "./Pinky_V2/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/safwankvk/SafuZz.git"
+    "url": "git+https://github.com/afnanplk/Pinky_V.git"
   },
   "keywords": [
     "whatsapp",
     "bot",
     "ai",
-    "safuzz",
-    "Safwankvk"
+    "Pinky",
+    "Afnanplk"
   ],
-  "author": "Safwankvk",
-  "developer": "@safwankvk",
+  "author": "Afnanplk",
+  "developer": "@afnanplk",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com//safwankvk/SafuZz/issues"
+    "url": "https://github.com//afnanplk/Pinky_V/issues"
   },
-  "homepage": "https://github.com//safwankvk/SafuZz#readme",
+  "homepage": "https://github.com//afnanplk/Pinky_V#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.4.1",
     "@lh2020/speedtest-net": "^2.1.1",

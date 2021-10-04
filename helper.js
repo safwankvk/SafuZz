@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *safuzz*:  ```" + msg + "```"
+    return "✅ *pinky*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *safuzz*:  ```" + msg + "```"
+    return "🛑 *pinky*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *safuzz*:  ```" + msg + "```"
+    return "⏺️ *pinky*:  ```" + msg + "```"
 }
 
 
